@@ -1,0 +1,19 @@
+{
+  "name": "pursuit-core-web-react-forms-lab",
+  "version": "1.0.0",
+  "description": "Build a React app that has the following functionality:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakerfan1994/Pursuit-Core-Web-React-Forms-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakerfan1994/Pursuit-Core-Web-React-Forms-Lab/issues"
+  },
+  "homepage": "https://github.com/lakerfan1994/Pursuit-Core-Web-React-Forms-Lab#readme"
+}
